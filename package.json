@@ -1,0 +1,21 @@
+{
+    "name": "windows-11-light",
+    "displayName": "windows-11-light",
+    "description": "Light theme with Windows 11 light colors from Office 2021.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Windows 11 Light",
+                "uiTheme": "vs",
+                "path": "./themes/Windows 11 Light-color-theme.json"
+            }
+        ]
+    }
+}
